@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mihai
+- 👀 I’m interested in technology and how things can be automated and for this I found a very good friend - powershell and together we like to experiment cool stuff
+- 🌱 I’m always learning and never will stop
+- 💞️ I’m looking to contribute to the community with documentations updates and powershell scripts
